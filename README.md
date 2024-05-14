@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bishal</h1>
-<h3 align="center">An aspiring full-stack developer from India</h3>
+<h3 align="center">An aspiring full-stack developer</h3>
 
 <p align="left"> <a href="https://twitter.com/bishalsingh153" target="blank"><img src="https://img.shields.io/twitter/follow/bishalsingh153?logo=twitter&style=for-the-badge" alt="bishalsingh153" /></a> </p>
 
