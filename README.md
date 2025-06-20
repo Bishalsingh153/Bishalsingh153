@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/bishalsingh153" target="blank"><img src="https://img.shields.io/twitter/follow/bishalsingh153?logo=twitter&style=for-the-badge" alt="bishalsingh153" /></a> </p>
 
-- 🌱 I’m working as an Intern **MERN Stack**
+- 🌱 I’m working as an Intern 
 
 - 💬 Ask me about **Javascript,React,Node,HTML,CSS,Tailwind CSS and yes definitely C**
 
