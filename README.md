@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bishal</h1>
-<h3 align="center">An aspiring full-stack developer</h3>
+<h3 align="center">A Full-stack Developer</h3>
 
 <p align="left"> <a href="https://twitter.com/bishalsingh153" target="blank"><img src="https://img.shields.io/twitter/follow/bishalsingh153?logo=twitter&style=for-the-badge" alt="bishalsingh153" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m working as an Intern **MERN Stack**
 
-- 💬 Ask me about **Javascript,React,HTML,CSS,Tailwind CSS**
+- 💬 Ask me about **Javascript,React,Node,HTML,CSS,Tailwind CSS and yes definitely C**
 
 - 📫 How to reach me **bishalsinghofcp@gmail.com**
 
